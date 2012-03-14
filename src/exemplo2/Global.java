@@ -6,6 +6,7 @@ package exemplo2;
  * @author KALEU
  */
 public class Global {
-	public static final int FASE1_ID = 1;
+
+    public static final int FASE1_ID = 1;
     public static final int FIM_ID = 2;
 }

@@ -16,7 +16,7 @@ public class Vidas extends GameObject {
 	public void draw(Graphics g) {
 		Font f = new Font("Arial", Font.BOLD, 18);
 		g.setFont(f);
-		g.setColor(new Color(200, 50, 50));
+		g.setColor(new Color(255, 0, 255));
 		g.drawString("Vidas: "+this.vidas, 620, 150);
 	}
 
